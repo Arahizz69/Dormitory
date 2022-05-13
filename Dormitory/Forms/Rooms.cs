@@ -23,7 +23,7 @@ namespace Dormitory.Forms
         private TRooms selectRoomsCard;
 
         public TRooms SelectRoomsCard
-        {
+        {// dddd
             get { return selectRoomsCard; }
         }
 
